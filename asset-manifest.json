@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/arjunkarurraghu-hub/trueledger.ai.git/static/css/main.57d7f396.css",
+    "main.js": "/arjunkarurraghu-hub/trueledger.ai.git/static/js/main.1cefebec.js",
+    "index.html": "/arjunkarurraghu-hub/trueledger.ai.git/index.html",
+    "main.57d7f396.css.map": "/arjunkarurraghu-hub/trueledger.ai.git/static/css/main.57d7f396.css.map",
+    "main.1cefebec.js.map": "/arjunkarurraghu-hub/trueledger.ai.git/static/js/main.1cefebec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57d7f396.css",
+    "static/js/main.1cefebec.js"
+  ]
+}
